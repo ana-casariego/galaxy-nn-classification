@@ -1,1 +1,1 @@
-# OJ_Classification
+# Galaxy_Classification

@@ -6,3 +6,4 @@ This was an in class Kaggle Competition which I took part in. The goal of the co
 There were 4 people in my team and we would not have been succesful without each other's support. 
 
 ### File Descriptions
+- galaxy_nn_classification: the final submission, a pre-trained convolutional neural network 
